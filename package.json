@@ -1,0 +1,10 @@
+{
+  "name": "younglife",
+  "description": "Party with a purposes",
+  "version": "v.1",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": ""
+  }
+}
